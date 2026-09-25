@@ -1,0 +1,5 @@
+1 r.m   
+2 algebra   
+3 arimetica 
+4 historia
+5 geometria
