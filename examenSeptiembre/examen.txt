@@ -1,0 +1,5 @@
+he puesto brave y escribi git hub busque mi repositorio y puse mi apellido ninahuanca
+puse ssh y puse copiar al codigo ,ahora abri kitty y puse cd Alumnos despues
+git clone puse aqui el codigo ahora puse code . y puse el texto ahora pongo
+git add . luego git commit - m "etiqueta " luego git push origin main y ya 
+lo termine subiendo ami repositorio en git hub
