@@ -8,5 +8,6 @@ print ("La division es: " ,a/b)
 print ("La suma es:",a+b)
 print ("La resta es: " ,a-b)
 print ("La potencia es: " ,a**b)
-print ("La radicacion es: ",a)
+print ("La radicacion es: ",a ** (1/b))
+
 
